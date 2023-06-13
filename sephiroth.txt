@@ -1,0 +1,6 @@
+general: mid af
+
+fair: frame 13
+bair: frame 15
+dair: frame 14
+up air: frame 17

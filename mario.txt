@@ -1,0 +1,6 @@
+general: great frame data
+
+fair: frame 12
+bair: frame 6
+dair: frame 6
+up air: frame 5

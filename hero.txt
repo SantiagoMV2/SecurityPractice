@@ -1,0 +1,6 @@
+General: slow af xddd
+
+Fair: frame 12
+Bair: frame 18
+Dair: frame 15
+Up air: frame 5 (Shitty move)
