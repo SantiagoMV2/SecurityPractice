@@ -1,6 +1,6 @@
-general: Great frame data
+general: Great frame data(nerfed)
 
 Fair: frame 7
 Bair: frame 4
-Dair: frame 7
+Dair: frame 8
 Up air: frame 6
