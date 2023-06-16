@@ -4,3 +4,5 @@ Fair: frame 12
 Bair: frame 17
 Dair: frame 15
 Up air: frame 5 (Shitty move)
+
+Hocus pocus: frame 2 (Pretty RNG don't recommend)
