@@ -6,3 +6,6 @@ Dair: frame 7
 Up air: frame 6
 
 This will be updated to keep specials as well. (change)
+
+F smash: frame 12
+Down smash: frame 10
