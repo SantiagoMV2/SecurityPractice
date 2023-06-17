@@ -7,7 +7,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
-footer{
+.Foot{
   color: bisque;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: larger;
