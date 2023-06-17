@@ -7,6 +7,11 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
+header{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: aquamarine;
+  font-size: large;
+}
 #container
 {
   width:70%;
