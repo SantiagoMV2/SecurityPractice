@@ -7,6 +7,12 @@ body{
     font-family: 'Courier New', Courier, monospace;
 }
 
+footer{
+  color: bisque;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: larger;
+}
+
 #container
 {
   width:70%;
